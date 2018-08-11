@@ -1,0 +1,5 @@
+I tried them all in my personal quest of finding the best editor/IDE
+Here are my favorites:
+
+Editor: Sublime Text 2, hands down!
+There is *nothing* close to it. It has usual things like code coloring (recognizes tons of code and data formats, even such rare ones like ASN.1), code folding, etc. My favorite features: Search Everything (very fast fuzzy search through menus, makes graphical menus obsolete) and Multiple Cursors.
