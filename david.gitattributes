@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Daniel Martín's answer is a good one, so I will just add to it a little bit. N.B. I'm an undergrad in physics, but for the past few years now I've been working on computational physics.
+
+To recap, Python is a good general language, though you haven't seen stubbornness until you have to convince a physics professor to switch from using Fortran. It could be that most are switching and thus contributing to Python's growing scientific community, but I also think it has a lot to do with legacy code. Python is great as "glue code" or "wrapper code"--in fact, most of the NumPy library includes wrappers for BLAS, LAPACK, and similar old but extremely fast libraries that were written in FORTRAN back in the 90s. SciPy includes similar routines for optimization (it is a superset of NumPy)
